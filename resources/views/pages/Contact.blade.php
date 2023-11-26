@@ -6,7 +6,7 @@
 
 		<div class="w-full p-8 my-4 md:px-12 lg:w-9/12 lg:pl-20 lg:pr-40 mr-auto rounded-2xl shadow-2xl">
 			<div class="flex">
-				<h1 class="font-bold uppercase text-5xl">Send us a <br /> message</h1>
+				<h1 class="font-bold uppercase text-5xl">Send me a <br /> message</h1>
 			</div>
 			<div class="grid grid-cols-1 gap-5 md:grid-cols-2 mt-5">
 				<input class="w-full bg-gray-100 text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
@@ -38,7 +38,6 @@
 
 					<div class="flex my-4 w-2/3 lg:w-2/3">
 						<div class="flex flex-col">
-							<i class="fas fa-map-marker-alt pt-2 pr-2" />
             </div>
             <div class="flex flex-col">
               <h2 class="text-2xl">Main Office</h2>
@@ -48,7 +47,6 @@
           
           <div class="flex my-4 w-2/3 lg:w-2/3">
             <div class="flex flex-col">
-              <i class="fas fa-phone-alt pt-2 pr-2" />
             </div>
             <div class="flex flex-col">
               <h2 class="text-2xl">Call Us</h2>
@@ -64,12 +62,4 @@
     <!-- COMPONENT CODE -->
 </div>
 
-<!-- BUY ME A PIZZA AND HELP SUPPORT OPEN-SOURCE RESOURCES -->
-<div class="flex items-end justify-end fixed bottom-0 right-0 mb-4 mr-4 z-10">
-  <div>
-    <a title="Buy me a pizza" href="https://www.buymeacoffee.com/Dekartmc" target="_blank" class="block w-16 h-16 rounded-full transition-all shadow hover:shadow-lg transform hover:scale-110 hover:rotate-12">
-      <img class="object-cover object-center w-full h-full rounded-full" src="https://img.icons8.com/emoji/48/000000/pizza-emoji.png"/>
-    </a>
-  </div>
-</div>
 @endsection

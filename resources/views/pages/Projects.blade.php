@@ -24,8 +24,7 @@ class="pt-20 pb-12 lg:pt-[120px] lg:pb-[90px] dark:bg-dark"
                My Recent Projects
             </h2>
             <p class="text-body-color text-base dark:text-dark-6">
-               There are many variations of passages of Lorem Ipsum available
-               but the majority have suffered alteration in some form.
+               Successfully melded code and creativity in my recent web project, delivering an intuitive user interface powered by robust backend functionality.
             </p>
          </div>
       </div>
